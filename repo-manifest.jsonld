@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Python-Markdown/github-links/commit/b2bd50516493f0ea4ab1426c1db5d4702488b8bd",
       "git:hexsha": "b2bd50516493f0ea4ab1426c1db5d4702488b8bd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T02:12:47.197854+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Python-Markdown/github-links/commit/bed09005a10b42c873b683bdf62936cdaecf796b",
