@@ -54,7 +54,9 @@
           "githubUrl": "https://github.com/Python-Markdown/markdown",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8175031e051d4580b74a4c5db6e3186cfd96902d/chunk-001.nq.gz",
+      "dep": "dep/8175031e051d4580b74a4c5db6e3186cfd96902d.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
