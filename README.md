@@ -36,9 +36,15 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 8175031e051d4580b74a4c5db6e3186cfd96902d
+│   │   │   └── chunk-001.nq.gz
 │   │   └── b2bd50516493f0ea4ab1426c1db5d4702488b8bd
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 8175031e051d4580b74a4c5db6e3186cfd96902d.nq.gz
 │   └── repolex
+│       ├── 8175031e051d4580b74a4c5db6e3186cfd96902d
+│       │   └── chunk-001.nq.gz
 │       └── b2bd50516493f0ea4ab1426c1db5d4702488b8bd
 │           └── chunk-001.nq.gz
 ├── blob
@@ -48,6 +54,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 4a118fa32cc42253ebac9c4549477aa5cf15c8be.nq.gz
 │   ├── 72364f99fe4bf8d5262df3b19b33102aeaa791e5.nq.gz
 │   ├── 76d47d2ee9eeeb6d91d428c4c2c67a5d7f1de744.nq.gz
+│   ├── 8e4670454367670e35ff12f422fe65f9b58f2e25.nq.gz
 │   ├── a4924367200350d28ffb4ffb87ec19d6b6d97e69.nq.gz
 │   ├── c1020edec93176d7c9780dce9265b1a021b8d24a.nq.gz
 │   └── f4c7b4a8e2e83326163f50efb5d197474c95f305.nq.gz
@@ -55,7 +62,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 8175031e051d4580b74a4c5db6e3186cfd96902d.nq.gz
 ├── filetree
+│   ├── 8175031e051d4580b74a4c5db6e3186cfd96902d.nq.gz
 │   └── b2bd50516493f0ea4ab1426c1db5d4702488b8bd.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -64,7 +74,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 17 files
+17 directories, 23 files
 ```
 
 | Directory | What it contains |
@@ -85,4 +95,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [Python-Markdown/github-links](https://github.com/Python-Markdown/github-links)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*

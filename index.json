@@ -3,6 +3,11 @@
   "repo": "github-links",
   "versions": [
     {
+      "commit": "8175031e051d4580b74a4c5db6e3186cfd96902d",
+      "tag": "0.4",
+      "parsed_at": "2026-11-21T23:18:05.470272+00:00"
+    },
+    {
       "commit": "b2bd50516493f0ea4ab1426c1db5d4702488b8bd",
       "tag": "",
       "parsed_at": "2026-11-06T02:12:47.198371+00:00"
