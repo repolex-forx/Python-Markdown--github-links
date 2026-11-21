@@ -1,0 +1,7 @@
+[2026-11-21T23:13:04Z] === AST ITERATION 1 START | repo=Python-Markdown/github-links sha=8175031e ===
+[2026-11-21T23:13:04Z] [iter=1] PHASE START: ast repo=Python-Markdown/github-links sha=8175031e
+[2026-11-21T23:13:04Z] [iter=1] Building AST aggregate chunks
+[2026-11-21T23:13:04Z] [iter=1] AST chunks built count=1 triples=11316
+[2026-11-21T23:13:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8175031e051d4580b74a4c5db6e3186cfd96902d/.complete
+[2026-11-21T23:13:04Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-21T23:13:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
