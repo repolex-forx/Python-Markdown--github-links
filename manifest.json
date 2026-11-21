@@ -42,6 +42,18 @@
       ],
       "ast": [
         "aggregate/ast/8175031e051d4580b74a4c5db6e3186cfd96902d/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8175031e051d4580b74a4c5db6e3186cfd96902d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "markdown",
+          "ecosystem": "PYPI",
+          "version": "3.0.0",
+          "githubOrg": "Python-Markdown",
+          "githubRepo": "markdown",
+          "githubUrl": "https://github.com/Python-Markdown/markdown",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
